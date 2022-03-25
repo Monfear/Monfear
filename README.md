@@ -8,4 +8,5 @@ I am constantly increasing my skills.  :electron:
 :arrow_right: HTML  
 :arrow_right: CSS  
 :arrow_right: JAVASCRIPT  
+:arrow_right: TYPESCRIPT
 :arrow_right: REACT  
