@@ -10,5 +10,5 @@ I am constantly increasing my skills.  :electron:
 :arrow_right: JAVASCRIPT  
 :arrow_right: TYPESCRIPT  
 :arrow_right: REACT  
-:arrow_right: PYTHON
-:arrow_right: SQL
+:arrow_right: PYTHON  
+:arrow_right: SQL  
