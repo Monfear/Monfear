@@ -10,7 +10,7 @@ I am constantly increasing my skills.  :electron:
 :arrow_right: JAVASCRIPT  
 :arrow_right: TYPESCRIPT  
 :arrow_right: REACT  
-:arrow_right: MySQL 
-:arrow_right: MongoDB
-:arrow_right: Node.js
-:arrow_right: C++
+:arrow_right: MySQL  
+:arrow_right: MongoDB 
+:arrow_right: Node.js 
+:arrow_right: C++ 
