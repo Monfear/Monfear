@@ -2,9 +2,9 @@
 I am Patryk from Poland. :poland:  
 Self-taught developer.  :man_student:  
 I have been interested in programming for around two years. :computer:  
-I am constantly increasing my skills.  :electron: 
-Mainly in frontend :computer:.
-but for some time also backend :lock: and games  :video_game:.
+I am constantly increasing my skills.  :electron:     
+Mainly in frontend :fireworks:.     
+but for some time also backend :lock: and games  :video_game:.    
 
 ### Techs:
 :arrow_right: HTML  
