@@ -9,9 +9,9 @@ For some time also backend :lock: and games.  :video_game:
 ### Techs:
 :arrow_right: HTML  
 :arrow_right: CSS  
-:arrow_right: JAVASCRIPT  
-:arrow_right: TYPESCRIPT  
-:arrow_right: REACT  
+:arrow_right: Javascript  
+:arrow_right: Typescript  
+:arrow_right: React  
 :arrow_right: Vue    
 :arrow_right: Angular  
 :arrow_right: MySQL  
