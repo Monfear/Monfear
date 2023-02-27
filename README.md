@@ -12,7 +12,7 @@ For some time also backend :lock: and games.  :video_game:
 :arrow_right: JAVASCRIPT  
 :arrow_right: TYPESCRIPT  
 :arrow_right: REACT  
-:arrow_right: Vue
+:arrow_right: Vue    
 :arrow_right: Angular  
 :arrow_right: MySQL  
 :arrow_right: MongoDB     
