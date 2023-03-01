@@ -14,8 +14,11 @@ For some time also backend :lock: and games.  :video_game:
 :arrow_right: React  
 :arrow_right: Vue    
 :arrow_right: Angular  
+:arrow_right: Node.js  
 :arrow_right: MySQL  
-:arrow_right: MongoDB     
-:arrow_right: Node.js    
+:arrow_right: MongoDB    
+:arrow_right: Firebase       
 :arrow_right: C++    
 :arrow_right: C#      
+
+<img src="https://www.resourcifi.com/blog/wp-content/uploads/2021/05/Angular-vs-React-vs-Vue-Which-One-to-Choose-For-Your-Web-App-in-2021.jpg" data="frameworks"></img>
