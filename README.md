@@ -9,7 +9,6 @@ For some time also backend :lock: and games.  :video_game:
 <img 
      src="https://www.resourcifi.com/blog/wp-content/uploads/2021/05/Angular-vs-React-vs-Vue-Which-One-to-Choose-For-Your-Web-App-in-2021.jpg" 
      alt="frameworks"
-     style="border-radius: 20px"
 >
 </img>
 
