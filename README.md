@@ -6,6 +6,8 @@ I am constantly increasing my skills.  :electron:
 Mainly in frontend :fireworks:.     
 For some time also backend :lock: and games.  :video_game:   
 
+<img src="https://www.resourcifi.com/blog/wp-content/uploads/2021/05/Angular-vs-React-vs-Vue-Which-One-to-Choose-For-Your-Web-App-in-2021.jpg" data="frameworks"></img>
+
 ### Techs:
 :arrow_right: HTML  
 :arrow_right: CSS  
@@ -21,4 +23,4 @@ For some time also backend :lock: and games.  :video_game:
 :arrow_right: C++    
 :arrow_right: C#      
 
-<img src="https://www.resourcifi.com/blog/wp-content/uploads/2021/05/Angular-vs-React-vs-Vue-Which-One-to-Choose-For-Your-Web-App-in-2021.jpg" data="frameworks"></img>
+
